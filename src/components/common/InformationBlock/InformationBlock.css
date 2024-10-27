@@ -1,0 +1,90 @@
+.InformationBlock__container{
+    display: flex;
+width: 760px;
+height: 348px;
+gap: 40px;
+border-radius: 35px;
+background: #FFF;
+margin-top: 0px;
+}
+.InformationBlock__image{
+    width: 324px;
+    height: 100%;
+    border-radius: 15px;
+}
+.InformationBlock__text-title{
+    font-size: 24px;
+    color: #1E1E1E;
+    margin-top: 32px;
+}
+.InformationBlock__text-txt{
+    font-size: 16px;
+    color: #1E1E1E;
+margin-top: 5px;
+}
+.Information__text-star{
+    width: 22px;
+    height: 22px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.InformationBlock__txt-title{
+    font-size: 20px;
+    color: #1E1E1E;
+    margin-top: 20px;
+
+
+}
+.InformationBlock__time-slots{
+    display: flex;
+
+}
+.InformationBlock__Calendar-item{
+    width: 82px;
+height: 37px;
+border-radius: 7px;
+border: 2px solid #0087CD;
+background: #FFF;
+margin-left: 10px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 12px;
+}
+.Calendar__item-title{
+    color: #1E1E1E;
+  font-size: 16px;
+}
+.Calendar__item-text{
+    color: #666;
+
+font-size: 12px;
+}
+.InformationBlock__available-times{
+    margin-top: 15px;
+    margin-left: -10px;
+}
+.InformationBlock__time{
+    width: 69px;
+height: 31px;
+border-radius: 7px;
+border: 2px solid #0087CD;
+background: #FFF;
+margin-left: 10px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.InformationBlock__button{
+    padding: 10px;
+    border-radius: 10px;
+background: #0087CD;
+border: 0;
+outline: none;
+margin-top: 20px;
+
+}
+.InformationBlock__button-text{
+    color: #FFF;
+font-size: 16px;
+}

@@ -1,0 +1,22 @@
+.textarea{
+    width: 380px;
+    height: 81px;
+    border: 1px solid #666666;
+    border-radius: 9px;
+    resize: none;
+    padding-left: 10px;
+    font-size: 13px;
+    color: #666666;
+    margin-top: 5px;
+    position: relative;
+    top: 7px;
+    
+}
+.article{
+    font-size: 24px;
+    color: #1E1E1E;
+    margin-bottom: 10px;
+    margin-top: -30px;
+    position: relative;
+    top: -10px;
+}

@@ -1,0 +1,25 @@
+.personalInformation__block-text{
+    color: #1E1E1E;
+    font-size: 20px;
+    margin-top: -80px;
+    margin-bottom: 30px;
+    position: relative;
+    top: 10px;
+}
+.personalInformation__block{
+   margin-top: 80px;
+   margin-bottom: 20px;
+}
+.modal__under-button{
+    padding: 20px;
+    border-radius: 14px;
+background: #0087CD;
+border: 0;
+outline: none;
+
+}
+.modal__under-button-text{
+    color: #FFF;
+
+font-size: 16px;
+}
